@@ -1,11 +1,13 @@
-Playlist should be active when created. ******
-Playlist title must not be null.   
-Playlist title must not be empty.
-Can add songs to a playlist.
+Playlist should be active when created. ****** gjord
+Playlist title must not be null.   GJORD
+Playlist title must not be empty. GJORD
+Can add songs to a playlist.  GJORD
 New playlist has empty song list.
 Song added to playlist is same object instance (reference).
 Songs by abba are not allowed in the playlist.
 Playlist can be cleared, removing all songs.
+
+
 Duplicate song titles are silently ignored.
 Should be able to remove duplicates from playlist where artist and title are identical.
 Playlist automatically adds current year to start of title.
